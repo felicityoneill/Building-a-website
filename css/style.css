@@ -1,0 +1,31 @@
+/*General
+*           */
+/* Very hard reset of browser settings */
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	color: #3a4e79;
+}
+.fruitBanner {
+	background-image: url('../images/fruitNew.jpg');
+	height: 400px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.doctorsName {
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+}
+nav ul li {
+	font-weight: 900;
+	font-size: 30px;
+
+}
+
+/*Headings, text, lists
