@@ -1,6 +1,4 @@
-/*General
-*           */
-/* Very hard reset of browser settings */
+
 * {
 	margin: 0;
 	padding: 0;
@@ -20,12 +18,29 @@ body {
 .doctorsName {
 	text-align: center;
 	font-weight: bold;
-	font-size: 30px;
+	font-size: 40px;
+}
+
+.introText {
+	font-size: 20px;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+.img-responsive {
+	margin-top: 30px;
 }
 nav ul li {
 	font-weight: 900;
-	font-size: 30px;
+	font-size: 25px;
 
 }
 
- 
+.waistTapeMeasure {
+	height: 200px;
+}
+.page__footer {
+	position: fixed;
+    bottom: 0;
+ margin-left: 60px;
+}
