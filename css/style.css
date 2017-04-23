@@ -7,6 +7,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	color: #3a4e79;
+	padding: 10px;
 }
 .fruitBanner {
 	background-image: url('../images/fruitNew.jpg');
@@ -39,8 +40,28 @@ nav ul li {
 .waistTapeMeasure {
 	height: 200px;
 }
-.page__footer {
-	position: fixed;
+
+.pregnantWoman {
+	height: 200px;
+	width: 30%;
+
+}
+
+.foodIntolerance {
+	height: 200px;
+}
+
+.footerholder {
+
     bottom: 0;
- margin-left: 60px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+.footer {
+
+    height: 100px;
+    margin: auto;
+    width: 600px;
 }
