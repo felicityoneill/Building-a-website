@@ -8,6 +8,7 @@ body {
 	font-weight: 400;
 	color: #3a4e79;
 	padding: 10px;
+	margin-left: 30px;
 }
 
 .headerContact {
@@ -68,4 +69,5 @@ nav ul li {
     height: 100px;
     margin: auto;
     width: 600px;
+		margin-top: 40px;
 }
