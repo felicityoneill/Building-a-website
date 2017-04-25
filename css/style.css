@@ -56,12 +56,32 @@ nav ul li {
 	height: 200px;
 }
 
+.v2irritablebowel {
+	height: 200px;
+}
+
+.menopause {
+	height: 200px;
+}
+
+.heartDisease {
+	height: 200px;
+}
+
+.diabetes {
+	height: 200px;
+}
+
 .footerholder {
 
     bottom: 0;
     position: relative;
     text-align: center;
     width: 100%;
+}
+
+#ContactHeader {
+	text-align: center;
 }
 
 .footer {
