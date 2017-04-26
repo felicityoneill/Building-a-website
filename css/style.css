@@ -11,6 +11,10 @@ body {
 	margin-left: 30px;
 }
 
+.col-md-5 img {
+	width: 80%;
+}
+
 .headerContact {
 	margin-left: 75px
 
